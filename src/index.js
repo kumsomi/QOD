@@ -7,10 +7,7 @@ function CelciusConversionfromFahrenheit(f) {
 console.log(CelciusConversionfromFahrenheit(56));
 
 // Q2. Write a program to calculate the sum of N natural digits, asinput by the users?
-// edge cases-->
-// a) -ve num,
-// b) trailing zeros,
-// c) zereos at the start
+
 function sumOfNaturalNo(n) {
   let sum = 0;
   for (let i = 0; i <= n; i++) {
@@ -21,6 +18,10 @@ function sumOfNaturalNo(n) {
 console.log(sumOfNaturalNo(100));
 
 // Q3. Js program that reverses a number
+// edge cases-->
+// a) -ve num,
+// b) trailing zeros,
+// c) zereos at the start
 function Reverse(n) {
   let rev = 0,
     rem = 0;
