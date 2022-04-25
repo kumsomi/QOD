@@ -6,8 +6,8 @@ C=(F-2)*5/9
 
 Q2. Write a program to calculate the sum of N natural digits, asinput by the users?
 edge cases-->
+
+Q3. Js program that reverses a number
  a) -ve num,
  b) trailing zeros,
  c) zereos at the start
- 
-Q3. Js program that reverses a number
